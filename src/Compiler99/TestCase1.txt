@@ -1,0 +1,16 @@
+for (i=0;i<10;i++){
+    j=0;
+    while(j!=5){
+        if(a==b)
+            j++;
+            a=b;
+        else
+            j=5;
+        }
+    compiler();
+}
+
+public void compiler(){
+    int d,e;
+    int c=d+e;
+}
